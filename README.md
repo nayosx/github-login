@@ -22,3 +22,6 @@ Run
 ```bash
 yarn start
 ```
+
+
+http://shiya.io/how-to-do-3-legged-oauth-with-github-a-general-guide-by-example-with-node-js/
